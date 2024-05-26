@@ -1,5 +1,5 @@
 
-   SIMPLE INSTAGRAM = LIKE SOCIAL MEDIA PLATFORM
+   SIMPLE INSTAGRAM - LIKE SOCIAL MEDIA PLATFORM
    
 * This Code is implemented using the python and the OOPS concepts.
 
